@@ -179,17 +179,17 @@ Highly scalable storage solution for storing model files, datasets, and applicat
 
 ## How It Works
 
- User asks a travel-related question (e.g., "Book a trip to Goa for 3 days").
+ 1. User asks a travel-related question (e.g., "Book a trip to Goa for 3 days").
 
- Watsonx.ai with IBM Granite model understands the request using AI.
+ 2. Watsonx.ai with IBM Granite model understands the request using AI.
 
- Watsonx Vector Index searches for matching destinations, tickets, or plans.
+ 3. Watsonx Vector Index searches for matching destinations, tickets, or plans.
 
- Backend logic processes bookings, slot reservations, and generates itineraries.
+ 4. Backend logic processes bookings, slot reservations, and generates itineraries.
 
- IBM Cloud Object Storage stores user data, itineraries, and assets.
+ 5. IBM Cloud Object Storage stores user data, itineraries, and assets.
 
- IBM Cloud IAM secures access to all services.
+ 6. IBM Cloud IAM secures access to all services.
 
 ## Do's
 
