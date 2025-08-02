@@ -194,36 +194,47 @@ Highly scalable storage solution for storing model files, datasets, and applicat
 ## Do's
 
 Ask clear and specific travel questions
+
 ➤ Example: “Book a flight from Mumbai to Delhi on 5th August.”
 
 Mention details like location, date, and number of days
+
 ➤ Helps the system plan accurately.
 
 Use polite and natural language
+
 ➤ The AI is trained on natural interactions — talk to it like a real assistant.
 
 Review the generated itinerary or bookings before confirming
+
 ➤ Always double-check to ensure your preferences are met.
 
+
 Use common travel-related terms
+
 ➤ Like “book,” “plan,” “trip,” “flight,” “hotel,” etc.
 
 ## Dont's
 
-Don’t type vague or incomplete commands
-✘ “I want to go somewhere” (Too generic)
+1. Don’t type vague or incomplete commands
+   
+ “I want to go somewhere” (Too generic)
 
-Don’t mix multiple tasks in one query
-✘ “Book my flight and suggest five cities and find a hotel and check weather”
+2. Don’t mix multiple tasks in one query
+   
+ “Book my flight and suggest five cities and find a hotel and check weather”
 
-Don’t use slang or overly casual language
-✘ “Yo, hook me up with a cool vacay plan” (AI might not interpret correctly)
+3. Don’t use slang or overly casual language
+   
+ “Yo, hook me up with a cool vacay plan” (AI might not interpret correctly)
 
-Don’t ignore confirmation prompts or final output
-✘ Booking blindly without review can lead to wrong plans.
+4. Don’t ignore confirmation prompts or final output
+   
+ “Booking blindly without review can lead to wrong plans”
 
-Don’t try to trick the AI with unrealistic scenarios
-✘ “Book a 1-day trip to five countries”
+5. Don’t try to trick the AI with unrealistic scenarios
+   
+  “Book a 1-day trip to five countries”
 
 
 ##  Acknowledgement
